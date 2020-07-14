@@ -1,0 +1,14 @@
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\bin\Debug\netcoreapp2.2\PocJobsHangfire.deps.json
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\bin\Debug\netcoreapp2.2\PocJobsHangfire.runtimeconfig.json
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\bin\Debug\netcoreapp2.2\PocJobsHangfire.runtimeconfig.dev.json
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\bin\Debug\netcoreapp2.2\PocJobsHangfire.dll
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\bin\Debug\netcoreapp2.2\PocJobsHangfire.pdb
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\obj\Debug\netcoreapp2.2\PocJobsHangfire.csprojAssemblyReference.cache
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\obj\Debug\netcoreapp2.2\PocJobsHangfire.csproj.CoreCompileInputs.cache
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\obj\Debug\netcoreapp2.2\PocJobsHangfire.RazorAssemblyInfo.cache
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\obj\Debug\netcoreapp2.2\PocJobsHangfire.RazorAssemblyInfo.cs
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\obj\Debug\netcoreapp2.2\PocJobsHangfire.AssemblyInfoInputs.cache
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\obj\Debug\netcoreapp2.2\PocJobsHangfire.AssemblyInfo.cs
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\obj\Debug\netcoreapp2.2\PocJobsHangfire.RazorTargetAssemblyInfo.cache
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\obj\Debug\netcoreapp2.2\PocJobsHangfire.dll
+D:\Projetos\PocJobsHangfire\PocJobsHangfire\obj\Debug\netcoreapp2.2\PocJobsHangfire.pdb
